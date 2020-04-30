@@ -86,7 +86,7 @@ header {height:65px;background-color:rgba(34, 49, 52, 0.9);position:fixed;top:0;
   object-fit: cover;
 }
 .btn{
-  position:absolute;top:70%;right:6%;font-size:5px;
+  position:absolute;top:70%;right:6%;font-size:9px;
 }
 .btn a {
   font-weight: 600;
